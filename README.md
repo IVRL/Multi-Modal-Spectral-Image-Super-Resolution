@@ -1,4 +1,4 @@
-# Multi-Modal-Spectral-Image-Super-Resolution
+# Multi-Modal Spectral Image Super-Resolution
 
 ## Code
 ### Dependencies
