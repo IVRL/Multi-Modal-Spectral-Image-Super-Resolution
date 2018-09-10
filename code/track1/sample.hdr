@@ -1,0 +1,27 @@
+ENVI
+Description = {Imec sensor image converted into an FLA - Scyllarus Matlab Toolbox}
+file type = ENVI Standard
+samples = 480
+lines = 240
+bands = 14
+interleave = BSQ
+data type = 12
+wavelength = {
+              477.247000,
+              489.555000,
+              500.302000,
+              510.928000,
+              523.277000,
+              537.970000,
+              548.940000,
+              553.063000,
+              562.501000,
+              577.373000,
+              590.598000,
+              599.917000,
+              612.924000,
+              617.508000
+}
+header offset = 0
+byte order = 0
+reflectance scale factor = 0.000000
