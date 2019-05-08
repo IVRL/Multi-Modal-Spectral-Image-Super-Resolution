@@ -51,7 +51,7 @@ the reconstruction is in code/track2/validation/*.{hdr,fla}
 11. run: python main.py
 
 ## Authors
-- [Fayez Lahoud](http://ivrl.epfl.ch/people/Lahoud)
+- [Fayez Lahoud](http://ivrl.epfl.ch/people/Lahoud) [[Home]](http://fayez.me)
 - [Ruofan Zhou](https://ivrl.epfl.ch/people/Zhou)
 - [Sabine Süsstrunk](https://ivrl.epfl.ch/people/susstrunk)
 
