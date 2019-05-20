@@ -1,4 +1,17 @@
 # Multi-Modal Spectral Image Super-Resolution
+Fayez Lahoud*, Ruofan Zhou*, Sabine Süsstrunk  
+ECCV Workshop 2018
+Winner of [[PIRM2018 Hyperspectral reconstruction chanllenge]](https://pirm2018.org/).
+
+## Citation
+@inproceedings{lahoud2018multi,
+  title={Multi-modal Spectral Image Super-Resolution},
+  author={Lahoud, Fayez and Zhou, Ruofan and S{\"u}sstrunk, Sabine},
+  booktitle={European Conference on Computer Vision},
+  pages={35--50},
+  year={2018},
+  organization={Springer}
+}
 
 ## Code
 ### Dependencies
