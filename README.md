@@ -4,6 +4,7 @@ ECCV Workshop 2018
 Winner of [[PIRM2018 Hyperspectral reconstruction chanllenge]](https://pirm2018.org/).
 
 ## Citation
+```
 @inproceedings{lahoud2018multi,
   title={Multi-modal Spectral Image Super-Resolution},
   author={Lahoud, Fayez and Zhou, Ruofan and S{\"u}sstrunk, Sabine},
@@ -12,6 +13,7 @@ Winner of [[PIRM2018 Hyperspectral reconstruction chanllenge]](https://pirm2018.
   year={2018},
   organization={Springer}
 }
+```
 
 ## Code
 ### Dependencies
