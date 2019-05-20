@@ -1,7 +1,7 @@
 # Multi-Modal Spectral Image Super-Resolution
 Fayez Lahoud*, Ruofan Zhou*, Sabine Süsstrunk  
 ECCV Workshop 2018
-Winner of [[PIRM2018 Hyperspectral reconstruction chanllenge]](https://pirm2018.org/).
+Winner of [[PIRM2018 Hyperspectral reconstruction challenge]](https://pirm2018.org/).
 
 ## Citation
 ```
